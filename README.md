@@ -12,13 +12,13 @@ https://get.pixelexperience.org/starlte
 
 #1 Pixel Experience Recovery
 
-PixelExperience_starlte-13.0-20231216-1329-OFFICIAL.img | ?? MB | 2023-12-16
+PixelExperience_starlte-13.0-20231216-1329-OFFICIAL.img | 42.5 MB | 2023-12-16
 
 Boot into Recovery -> Wipe/Format -> Install
 
 #2 Pixel Experience Build
 
-PixelExperience_starlte-13.0-20231216-1329-OFFICIAL.zip | ?? MB | 2023-12-16
+PixelExperience_starlte-13.0-20231216-1329-OFFICIAL.zip | 1.37 GB | 2023-12-16
 
 NB: Includes GApps and is a Pixel, no further flashing needed like Magisk
 
