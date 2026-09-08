@@ -1,1 +1,21 @@
-# samsung.s9-starlte-pixel.experience.13
+Samsung S9 | starlte | Pixel Experience 13
+
+Install TWRP Recovery (only need to do once)
+
+https://dl.twrp.me/starlte/
+
+twrp-3.7.0_9-0-starlte.img.tar | 40.7 MB | 2022-10-15
+
+& no-verity-opt-encrypt-6.1.zip
+
+https://get.pixelexperience.org/starlte
+
+#1 Recovery
+
+PixelExperience_starlte-13.0-20231216-1329-OFFICIAL.img | ?? MB | 2023-12-16
+
+#2 Build
+
+PixelExperience_starlte-13.0-20231216-1329-OFFICIAL.zip | ?? MB | 2023-12-16
+
+NB: Includes GApps and is a Pixel, no further flashing needed
